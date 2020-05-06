@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Chemical Plant Zone",
+  "_songSubName": "",
+  "_songAuthorName": "Smooth McGroove Remix",
+  "_levelAuthorName": "BlackBlazon / Fromen",
+  "_beatsPerMinute": 140,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 94,
+  "_previewDuration": 10,
+  "_songFilename": "Chemical Plant Zone (Sonic The Hedgehog Remix).egg",
+  "_coverImageFilename": "Chemical Plant Zone Remix.png",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -140,
+            "_editorOldOffset": -140,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

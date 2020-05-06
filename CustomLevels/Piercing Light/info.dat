@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Piercing Light (League of Legends Warsong)",
+  "_songSubName": "",
+  "_songAuthorName": "Mako",
+  "_levelAuthorName": "Mets",
+  "_beatsPerMinute": 125.0999984741211,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 223,
+  "_previewDuration": 25,
+  "_songFilename": "Warsongs Piercing Light (Mako Remix)  Music - League of Legends.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -30,
+            "_editorOldOffset": -30,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

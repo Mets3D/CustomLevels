@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "S3RL - Masturbate to cartoons",
+  "_songSubName": "",
+  "_songAuthorName": "",
+  "_levelAuthorName": "Viix",
+  "_beatsPerMinute": 175,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "s3rl-masturbate-to-cartoons-lyrics.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 500,
+            "_editorOldOffset": 500,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

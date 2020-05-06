@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Kimagure Mersey",
+  "_songSubName": "",
+  "_songAuthorName": "Hachioji P feat. Hatsune Miku",
+  "_levelAuthorName": "Nuketime",
+  "_beatsPerMinute": 160,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "Kimagure Mersey.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -101,
+            "_editorOldOffset": -101,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Tool-Assisted Speedcore",
+  "_songSubName": "(TQBF Frame Advance RMX)",
+  "_songAuthorName": "Kobaryo",
+  "_levelAuthorName": "Souk",
+  "_beatsPerMinute": 100,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 180,
+  "_previewDuration": 14.5,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "Souk",
+        "_iconPath": "souk.png"
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 24,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Speedcore",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
