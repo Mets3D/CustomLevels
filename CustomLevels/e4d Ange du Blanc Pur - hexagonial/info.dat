@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Ange du Blanc Pur",
+  "_songSubName": "",
+  "_songAuthorName": "ke-ji feat. Nanahira",
+  "_levelAuthorName": "Hexagonial",
+  "_beatsPerMinute": 182,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 100.30000305175781,
+  "_previewDuration": 23.788000106811523,
+  "_songFilename": "Ange.egg",
+  "_coverImageFilename": "Colory.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 120,
+            "_editorOldOffset": 120,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

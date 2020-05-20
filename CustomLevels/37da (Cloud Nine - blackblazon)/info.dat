@@ -1,0 +1,62 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Cloud Nine",
+  "_songSubName": "",
+  "_songAuthorName": "Grant Bowtie",
+  "_levelAuthorName": "BlackBlazon & DownyCat & EpicEwok",
+  "_beatsPerMinute": 160,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 75,
+  "_previewDuration": 20,
+  "_songFilename": "CloudNine.egg",
+  "_coverImageFilename": "CloudNine.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 120,
+            "_editorOldOffset": 120,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 120,
+            "_editorOldOffset": 120,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "ChromaLite"
+            ],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

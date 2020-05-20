@@ -1,0 +1,162 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Sakura [DDRMIX]",
+  "_songSubName": "",
+  "_songAuthorName": "RevenG",
+  "_levelAuthorName": "LittleAsi",
+  "_beatsPerMinute": 300,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 33.5,
+  "_previewDuration": 17,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 8,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.157,
+              "b": 0.647
+            },
+            "_colorRight": {
+              "r": 0.157,
+              "g": 0.647,
+              "b": 1
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 8,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.157,
+              "b": 0.647
+            },
+            "_colorRight": {
+              "r": 0.157,
+              "g": 0.647,
+              "b": 1
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.157,
+              "b": 0.647
+            },
+            "_colorRight": {
+              "r": 0.157,
+              "g": 0.647,
+              "b": 1
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.157,
+              "b": 0.647
+            },
+            "_colorRight": {
+              "r": 0.157,
+              "g": 0.647,
+              "b": 1
+            },
+            "_warnings": [],
+            "_information": [
+              "Check CustomSongs folder for extra difficulty between Expert and ExpertPlus"
+            ],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.157,
+              "b": 0.647
+            },
+            "_colorRight": {
+              "r": 0.157,
+              "g": 0.647,
+              "b": 1
+            },
+            "_warnings": [],
+            "_information": [
+              "Check CustomSongs folder for extra difficulty between Expert and ExpertPlus"
+            ],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

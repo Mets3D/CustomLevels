@@ -1,0 +1,74 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Weapon",
+  "_songSubName": "feat. Baum",
+  "_songAuthorName": "Grant",
+  "_levelAuthorName": "ExUnReal",
+  "_beatsPerMinute": 140,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 48.900001525878906,
+  "_previewDuration": 62,
+  "_songFilename": "Grant - Weapon (feat. Baum).egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "Lightshow",
+            "_editorOffset": 1990,
+            "_editorOldOffset": 1990,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": -0.4000000059604645,
+          "_customData": {
+            "_difficultyLabel": "I can be your weapon",
+            "_editorOffset": 1990,
+            "_editorOldOffset": 1990,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "I'm a machinegun",
+            "_editorOffset": 1990,
+            "_editorOldOffset": 1990,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

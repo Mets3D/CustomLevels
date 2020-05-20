@@ -1,0 +1,123 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Origins",
+  "_songSubName": "",
+  "_songAuthorName": "Jaroslav Beck",
+  "_levelAuthorName": "StyngMe & Skyler Wallace",
+  "_beatsPerMinute": 166,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 30,
+  "_previewDuration": 8,
+  "_songFilename": "Anniversary Song.egg",
+  "_coverImageFilename": "1 year anniversary.jpg",
+  "_environmentName": "Origins",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Expert, Original",
+        "_name": "StyngMe",
+        "_iconPath": ""
+      },
+      {
+        "_role": "Expert+, Hard, Normal",
+        "_name": "Skyler Wallace",
+        "_iconPath": ""
+      }
+    ],
+    "_customEnvironment": "Beat Saber Origins Platform",
+    "_customEnvironmentHash": "1326e596f8b5c835e30c77fd8d62b5db"
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Original",
+            "_editorOffset": -20,
+            "_editorOldOffset": -20,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -20,
+            "_editorOldOffset": -20,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -20,
+            "_editorOldOffset": -20,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.75,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -20,
+            "_editorOldOffset": -20,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              ""
+            ]
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.75,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -20,
+            "_editorOldOffset": -20,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Complete Campaign Challenge - Familiar Territory"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

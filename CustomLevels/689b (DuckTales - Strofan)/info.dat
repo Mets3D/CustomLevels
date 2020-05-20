@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "DuckTales",
+  "_songSubName": "Opening Song",
+  "_songAuthorName": "Felicia Barton",
+  "_levelAuthorName": "Strofan",
+  "_beatsPerMinute": 91.51000213623047,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "Felicia Barton - DuckTales.egg",
+  "_coverImageFilename": "Ducktales.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_customEnvironment": "",
+    "_customEnvironmentHash": "",
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

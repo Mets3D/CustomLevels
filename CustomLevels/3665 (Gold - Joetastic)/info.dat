@@ -1,0 +1,54 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Gold",
+  "_songSubName": "",
+  "_songAuthorName": "Jeff Williams ft. Casey Lee Williams",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 150,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 79.260009765625,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 60,
+            "_editorOldOffset": 60,
+            "_colorLeft": {
+              "r": 0.97,
+              "g": 0.76,
+              "b": 0.34
+            },
+            "_colorRight": {
+              "r": 0.6,
+              "g": 0.6,
+              "b": 0.6
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

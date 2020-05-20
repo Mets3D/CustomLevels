@@ -1,0 +1,77 @@
+{
+    "_version": "2.0.0",
+    "_songName": "Dystopia",
+    "_songSubName": "",
+    "_songAuthorName": "Pixel terror & Jaykode",
+    "_levelAuthorName": "Pixelguy",
+    "_beatsPerMinute": 150,
+    "_songTimeOffset": 0,
+    "_shuffle": 0,
+    "_shufflePeriod": 0.5,
+    "_previewStartTime": 12,
+    "_previewDuration": 10,
+    "_songFilename": "song.egg",
+    "_coverImageFilename": "cover.jpg",
+    "_environmentName": "MonstercatEnvironment",
+    "_customData": {
+        "_contributors": [],
+        "_customEnvironment": "Neon Rails",
+        "_customEnvironmentHash": "2139eb0a22b06cc2d42066bfc986487e"
+    },
+    "_difficultyBeatmapSets": [{
+            "_beatmapCharacteristicName": "Standard",
+            "_difficultyBeatmaps": [{
+                    "_difficulty": "Easy",
+                    "_difficultyRank": 1,
+                    "_beatmapFilename": "Easy.dat",
+                    "_noteJumpMovementSpeed": 12,
+                    "_noteJumpStartBeatOffset": 0,
+                    "_customData": {
+                        "_colorLeft": {
+                            "r": 0.73,
+                            "g": 0.0,
+                            "b": 0.1
+                        },
+                        "_colorRight": {
+                            "r": 0.3,
+                            "g": 0.3,
+                            "b": 0.3
+                        },
+                        "_difficultyLabel": "Lightshow",
+                        "_editorOffset": 0,
+                        "_editorOldOffset": 0,
+                        "_warnings": [],
+                        "_information": [],
+                        "_suggestions": [],
+                        "_requirements": []
+                    }
+                }, {
+                    "_difficulty": "ExpertPlus",
+                    "_difficultyRank": 9,
+                    "_beatmapFilename": "ExpertPlus.dat",
+                    "_noteJumpMovementSpeed": 18,
+                    "_noteJumpStartBeatOffset": 0,
+                    "_customData": {
+                        "_colorLeft": {
+                            "r": 0.73,
+                            "g": 0.0,
+                            "b": 0.1
+                        },
+                        "_colorRight": {
+                            "r": 0.3,
+                            "g": 0.3,
+                            "b": 0.3
+                        },
+                        "_difficultyLabel": "",
+                        "_editorOffset": 0,
+                        "_editorOldOffset": 0,
+                        "_warnings": [],
+                        "_information": [],
+                        "_suggestions": [],
+                        "_requirements": []
+                    }
+                }
+            ]
+        }
+    ]
+}

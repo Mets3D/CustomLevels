@@ -1,0 +1,54 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Shine",
+  "_songSubName": "",
+  "_songAuthorName": "Jeff Williams ft. Casey Lee Williams",
+  "_levelAuthorName": "Joetastic",
+  "_beatsPerMinute": 122,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 143.95655822753906,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 350,
+            "_editorOldOffset": 350,
+            "_colorLeft": {
+              "r": 0.64,
+              "g": 0.728,
+              "b": 0.82
+            },
+            "_colorRight": {
+              "r": 0.254,
+              "g": 0.411,
+              "b": 0.882
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

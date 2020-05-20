@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "YELL! (feat. Moimoi)",
+  "_songSubName": "",
+  "_songAuthorName": "DJ Genki & Camellia",
+  "_levelAuthorName": "Amanatsu & Pug",
+  "_beatsPerMinute": 170,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 216,
+  "_previewDuration": 12,
+  "_songFilename": "12 - Yell! (Feat. Moimoi) chopped.egg",
+  "_coverImageFilename": "YELL!.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -270,
+            "_editorOldOffset": -270,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
