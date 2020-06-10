@@ -1,0 +1,90 @@
+{
+  "_version": "2.0.0",
+  "_songName": "AO-Infinity",
+  "_songSubName": "",
+  "_songAuthorName": "Seiryu",
+  "_levelAuthorName": "Various Mappers",
+  "_beatsPerMinute": 191,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0,
+  "_previewDuration": 15,
+  "_songFilename": "AO-Infinity.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "ALL THE AO's",
+            "_editorOffset": 455,
+            "_editorOldOffset": 455,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "Jez's Recollection (Expert+)",
+            "_editorOffset": 455,
+            "_editorOldOffset": 455,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "shrado & Light's Reflection (Expert+)",
+            "_editorOffset": 455,
+            "_editorOldOffset": 455,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "Schwank's Isolation (Expert+)",
+            "_editorOffset": 455,
+            "_editorOldOffset": 455,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
