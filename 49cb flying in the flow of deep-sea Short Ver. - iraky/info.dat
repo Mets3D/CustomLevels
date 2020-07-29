@@ -1,0 +1,55 @@
+{
+  "_version": "2.0.0",
+  "_songName": "flying in the flow of deep-sea (Short Ver.)",
+  "_songSubName": "",
+  "_songAuthorName": "Camellia",
+  "_levelAuthorName": "iraky & Loloppe",
+  "_beatsPerMinute": 166,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 205,
+  "_previewDuration": 25,
+  "_songFilename": "flying in the flow of deep-sea.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "iraky",
+        "_iconPath": ""
+      },
+      {
+        "_role": "Lighter",
+        "_name": "Loloppe",
+        "_iconPath": ""
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Sliders",
+            "_editorOffset": 120,
+            "_editorOldOffset": 120,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

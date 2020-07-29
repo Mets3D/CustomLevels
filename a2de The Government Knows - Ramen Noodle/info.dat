@@ -1,0 +1,90 @@
+{
+  "_version": "2.0.0",
+  "_songName": "The Government Knows",
+  "_songSubName": "",
+  "_songAuthorName": "KNOWER",
+  "_levelAuthorName": "Ramen Noodle",
+  "_beatsPerMinute": 146,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 74.38356018066406,
+  "_previewDuration": 13.5,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "Teuflum",
+        "_iconPath": "teuf.png"
+      },
+      {
+        "_role": "Mapper",
+        "_name": "Checkthepan",
+        "_iconPath": "check.jpg"
+      },
+      {
+        "_role": "Mapper & Lighter",
+        "_name": "JohnnyDee",
+        "_iconPath": "johnny.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_difficultyLabel": "Check is watching you (Expert+)",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.4000000059604645,
+          "_customData": {
+            "_difficultyLabel": "Teuflum is watching you (Expert+)",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_difficultyLabel": "Johnny is watching you (Expert+)",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

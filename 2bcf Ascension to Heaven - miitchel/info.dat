@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Ascension to Heaven",
+  "_songSubName": "",
+  "_songAuthorName": "xi",
+  "_levelAuthorName": "miitchel & ManDynasty",
+  "_beatsPerMinute": 200,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 238.13999938964844,
+  "_previewDuration": 15,
+  "_songFilename": "Ascension to Heaven.egg",
+  "_coverImageFilename": "Ascension to Heaven.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -60,
+            "_editorOldOffset": -60,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

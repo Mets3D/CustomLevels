@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Hentacito",
+  "_songSubName": "",
+  "_songAuthorName": "Luis Fonsi ft. Daddy Yankee/S3RL/DaymanOurSavior",
+  "_levelAuthorName": "Psyc0pathic & Hexagonial",
+  "_beatsPerMinute": 178,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 77.77300262451172,
+  "_previewDuration": 21.5939998626709,
+  "_songFilename": "Hentacito.egg",
+  "_coverImageFilename": "owo.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -85,
+            "_editorOldOffset": -85,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

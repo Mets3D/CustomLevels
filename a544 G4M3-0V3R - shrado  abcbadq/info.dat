@@ -1,0 +1,159 @@
+{
+  "_version": "2.0.0",
+  "_songName": "G4M3-0V3R",
+  "_songSubName": "(m1dy Remix)",
+  "_songAuthorName": "Kobaryo",
+  "_levelAuthorName": "shrado & abcbadq",
+  "_beatsPerMinute": 222,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 78,
+  "_previewDuration": 19,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_difficultyLabel": "Suffer",
+            "_editorOffset": -25,
+            "_editorOldOffset": -25,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.75,
+          "_customData": {
+            "_difficultyLabel": "Torture",
+            "_editorOffset": -25,
+            "_editorOldOffset": -25,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0.25,
+          "_customData": {
+            "_difficultyLabel": "Despair",
+            "_editorOffset": -25,
+            "_editorOldOffset": -25,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "Death",
+            "_editorOffset": -25,
+            "_editorOldOffset": -25,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lawless",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalLawless.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "bombs",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardLawless.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "loloppes",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertLawless.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "inverts",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusLawless.dat",
+          "_noteJumpMovementSpeed": 23,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "sliders",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
