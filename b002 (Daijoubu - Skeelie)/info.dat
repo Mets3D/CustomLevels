@@ -1,0 +1,126 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Daijoubu",
+  "_songSubName": "",
+  "_songAuthorName": "Kotori",
+  "_levelAuthorName": "Skeelie",
+  "_beatsPerMinute": 128,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 131.25,
+  "_previewDuration": 14,
+  "_songFilename": "daijoubu.egg",
+  "_coverImageFilename": "plasticmemories.jpg",
+  "_environmentName": "DragonsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_envColorLeft": {
+              "r": 0.9019,
+              "g": 0.9019,
+              "b": 0.3529
+            },
+            "_envColorRight": {
+              "r": 0.7725,
+              "g": 0.6392,
+              "b": 0.8901
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_envColorLeft": {
+              "r": 0.9019,
+              "g": 0.9019,
+              "b": 0.3529
+            },
+            "_envColorRight": {
+              "r": 0.7725,
+              "g": 0.6392,
+              "b": 0.8901
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_envColorLeft": {
+              "r": 0.9019,
+              "g": 0.9019,
+              "b": 0.3529
+            },
+            "_envColorRight": {
+              "r": 0.7725,
+              "g": 0.6392,
+              "b": 0.8901
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": -0.5,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_envColorLeft": {
+              "r": 0.9019,
+              "g": 0.9019,
+              "b": 0.3529
+            },
+            "_envColorRight": {
+              "r": 0.7725,
+              "g": 0.6392,
+              "b": 0.8901
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

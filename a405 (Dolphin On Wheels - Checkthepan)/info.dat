@@ -1,0 +1,181 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Dolphin On Wheels",
+  "_songSubName": "",
+  "_songAuthorName": "Kill The Noise, Dillon Francis",
+  "_levelAuthorName": "Checkthepan",
+  "_beatsPerMinute": 130,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 142.15383911132812,
+  "_previewDuration": 12,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0.25,
+          "_customData": {
+            "_difficultyLabel": "i",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_obstacleColor": {
+              "r": 0.6795424818992615,
+              "g": 0.9559733271598816,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 0.30054378509521484
+            },
+            "_envColorRight": {
+              "r": 0.28744083642959595,
+              "g": 0.8713670969009399,
+              "b": 1
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "do",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_obstacleColor": {
+              "r": 0.6795424818992615,
+              "g": 0.9559733271598816,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 0.30054378509521484
+            },
+            "_envColorRight": {
+              "r": 0.28744083642959595,
+              "g": 0.8713670969009399,
+              "b": 1
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_difficultyLabel": "like",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_obstacleColor": {
+              "r": 0.6795424818992615,
+              "g": 0.9559733271598816,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 0.30054378509521484
+            },
+            "_envColorRight": {
+              "r": 0.28744083642959595,
+              "g": 0.8713670969009399,
+              "b": 1
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0.25,
+          "_customData": {
+            "_difficultyLabel": "dol",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_obstacleColor": {
+              "r": 0.6795424818992615,
+              "g": 0.9559733271598816,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 0.30054378509521484
+            },
+            "_envColorRight": {
+              "r": 0.28744083642959595,
+              "g": 0.8713670969009399,
+              "b": 1
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": 0.15000000596046448,
+          "_customData": {
+            "_difficultyLabel": "phins",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_obstacleColor": {
+              "r": 0.6795424818992615,
+              "g": 0.9559733271598816,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 1,
+              "g": 1,
+              "b": 0.30054378509521484
+            },
+            "_envColorRight": {
+              "r": 0.28744083642959595,
+              "g": 0.8713670969009399,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

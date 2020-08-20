@@ -1,0 +1,41 @@
+{
+  "_version": "2.0.0",
+  "_songName": "epimerization",
+  "_songSubName": "",
+  "_songAuthorName": "Camellia",
+  "_levelAuthorName": "Fern",
+  "_beatsPerMinute": 204,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 151,
+  "_previewDuration": 24,
+  "_songFilename": "songg.egg",
+  "_coverImageFilename": "image.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 38,
+            "_editorOldOffset": 38,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

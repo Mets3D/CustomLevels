@@ -1,0 +1,36 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Glitched Character",
+  "_songSubName": "",
+  "_songAuthorName": "Kobaryo",
+  "_levelAuthorName": "Scrappy",
+  "_beatsPerMinute": 230,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 181.39810180664062,
+  "_previewDuration": 80,
+  "_songFilename": "Glitched Character.egg",
+  "_coverImageFilename": "Glitched Character.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "XXXXpERT ++-++",
+            "_editorOffset": -135,
+            "_editorOldOffset": -135
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

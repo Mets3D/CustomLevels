@@ -1,0 +1,90 @@
+{
+  "_version": "2.0.0",
+  "_songName": "FUJIN Rumble",
+  "_songSubName": "",
+  "_songAuthorName": "COSIO(ZUNTATA)",
+  "_levelAuthorName": "EpicTroller",
+  "_beatsPerMinute": 192,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 34.39400100708008,
+  "_previewDuration": 15,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "Hard",
+            "_editorOffset": 19,
+            "_editorOldOffset": 19,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": -0.699999988079071,
+          "_customData": {
+            "_difficultyLabel": "Expert",
+            "_editorOffset": 19,
+            "_editorOldOffset": 19,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "Chaos",
+            "_editorOffset": 19,
+            "_editorOldOffset": 19,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": -0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "Element Wind",
+            "_editorOffset": 19,
+            "_editorOldOffset": 19,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

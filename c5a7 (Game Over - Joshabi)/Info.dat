@@ -1,0 +1,36 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Game Over",
+  "_songSubName": "(feat. TORIENA) [android52 Remix]",
+  "_songAuthorName": "Yunomi",
+  "_levelAuthorName": "Joshabi",
+  "_beatsPerMinute": 130,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 112.15384674072266,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0.20000000298023224,
+          "_customData": {
+            "_difficultyLabel": "GAM3 0V3R",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
