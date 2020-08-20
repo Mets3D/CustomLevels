@@ -1,0 +1,74 @@
+{
+  "_version": "2.0.0",
+  "_songName": "SEITEN NO TERIYAKI",
+  "_songSubName": "",
+  "_songAuthorName": "Kobaryo",
+  "_levelAuthorName": "fraies & Souk",
+  "_beatsPerMinute": 273,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 90.99401092529297,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 20.5,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "Souk's Hard",
+            "_editorOffset": 10,
+            "_editorOldOffset": 10,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": 0.44999998807907104,
+          "_customData": {
+            "_difficultyLabel": "Souk's Expert",
+            "_editorOffset": 10,
+            "_editorOldOffset": 10,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 24,
+          "_noteJumpStartBeatOffset": 0.15000000596046448,
+          "_customData": {
+            "_difficultyLabel": "fraies' Thunderbolt",
+            "_editorOffset": 10,
+            "_editorOldOffset": 10,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Walk This Way!",
+  "_songSubName": "",
+  "_songAuthorName": "Kano",
+  "_levelAuthorName": "cheesydream",
+  "_beatsPerMinute": 260,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 48,
+  "_previewDuration": 10,
+  "_songFilename": "Walk this way.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "DefaultEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 15,
+            "_editorOldOffset": 15,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

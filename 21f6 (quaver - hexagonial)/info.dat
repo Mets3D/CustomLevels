@@ -1,0 +1,60 @@
+{
+  "_version": "2.0.0",
+  "_songName": "quaver",
+  "_songSubName": "",
+  "_songAuthorName": "dj TAKA",
+  "_levelAuthorName": "Hexagonial",
+  "_beatsPerMinute": 182,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 58.58300018310547,
+  "_previewDuration": 9.42300033569336,
+  "_songFilename": "quaver.egg",
+  "_coverImageFilename": "quaver.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -90,
+            "_editorOldOffset": -90,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -90,
+            "_editorOldOffset": -90,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

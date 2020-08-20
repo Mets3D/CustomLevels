@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Daisuki, Evolution",
+  "_songSubName": "",
+  "_songAuthorName": "Minazuki Airi with Atsushi",
+  "_levelAuthorName": "Hexagonial",
+  "_beatsPerMinute": 250,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 54.612998962402344,
+  "_previewDuration": 9.151000022888184,
+  "_songFilename": "Daisuki.egg",
+  "_coverImageFilename": "daisuki.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -90,
+            "_editorOldOffset": -90,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
